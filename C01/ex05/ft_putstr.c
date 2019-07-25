@@ -17,4 +17,14 @@ void	ft_putchar(char n)
 	write(1, &n, 1);
 }
 
- 
+void	ft_putstr(char *str)
+{
+	int a;
+
+	a = 0;
+	while (str[a] != '\0')
+	{
+		ft_putchar(str[a]);
+		a++;
+	}
+}
