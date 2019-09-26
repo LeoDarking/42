@@ -1,0 +1,5 @@
+Credentials cache: API:444936D5-F827-4E8A-9FFD-4703A4DAF431
+        Principal: ygoavec@42.FR
+
+  Issued                Expires               Principal
+Jul  2 00:58:18 2019  Jul  9 00:58:18 2019  krbtgt/42.FR@42.FR
